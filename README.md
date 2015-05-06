@@ -1,1 +1,1 @@
-# wg-medios
+# gt-medios
