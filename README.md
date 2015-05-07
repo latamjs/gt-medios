@@ -5,7 +5,7 @@ Es el Grupo de Trabajo encargado de administrar los medios que [LatamJS](http://
 Difusión y promoción de:
 
 * Comunidades nuevas y existentes
-* Contenidos creados y recopiladps
+* Contenidos creados y recopilados
 * Futuros eventos
 
 Hasta el momento el grupo de trabajo cuenta con los siguientes medios:
